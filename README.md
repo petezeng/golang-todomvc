@@ -20,3 +20,7 @@ make dev
 ```
 make build
 ```
+## build
+```
+make build
+```
